@@ -6,7 +6,7 @@ function App() {
 
   return (
     <main>
-      <h1>React is pretty cool...</h1>
+      <h1>Reasons I want to travel to Japan</h1>
       <h2>
         Deployed with{' '}
         <a
